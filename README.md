@@ -1,4 +1,4 @@
-# eos-bulletin-frontend
+# Eos-bulletin (FrontEnd)
 FrontEnd to display the messages recorded in the eos-bulletin-backend. A small experiment.
 
 ## But what does it do?
